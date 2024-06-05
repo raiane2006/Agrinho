@@ -1,1 +1,12 @@
 # Agrinho_-_3Ano
+- ### Olá, sou o 
+- ### Professor Rafael Assis Santos
+- ### Embaixadora do NRE - Luzia Siscati
+- ### Projeto Agrinho 2024
+- ### Colégio Estadual Rio Branco
+- ### NRE-Ivaiporã
+- ### Link do projeto no Github pages kkklk
+- ### Link do projeto no Vercel kkkkk
+- ### 👀 👨‍💻 Gosto de programação, principalmente html, css e um pouco de Javascript...
+- ### Front end e Back end...
+- ### link do site onde retirei as imagens https://pixabay.com/pt/photos/
