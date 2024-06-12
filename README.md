@@ -1,11 +1,11 @@
 # Agrinho_-_3Ano
-- ### Olá, sou o 
+- ### Olá, sou Raiane de Lima Cordeiro
 - ### Professor Rafael Assis Santos
 - ### Embaixadora do NRE - Luzia Siscati
 - ### Projeto Agrinho 2024
 - ### Colégio Estadual Rio Branco
 - ### NRE-Ivaiporã
-- ### Link do projeto no Github pages kkklk
+- ### Link do projeto no Github pages https://raiane2006.github.io/Agrinho/
 - ### Link do projeto no Vercel kkkkk
 - ### 👀 👨‍💻 Gosto de programação, principalmente html, css e um pouco de Javascript...
 - ### Front end e Back end...
